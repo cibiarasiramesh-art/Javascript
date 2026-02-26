@@ -1,0 +1,5 @@
+var price=1000
+var product="dress"
+var tax=50
+console.log(product)
+console.log(price+tax)
