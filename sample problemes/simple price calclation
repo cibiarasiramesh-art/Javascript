@@ -1,0 +1,5 @@
+var name="mango"
+var price=50
+var count=5
+console.log(name)
+console.log(count*price)
